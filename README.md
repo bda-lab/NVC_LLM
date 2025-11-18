@@ -6,7 +6,7 @@ The repository is organized into three main directories:
 
 ```text
 .
-├── data/                     # Source data for bias testing
+├── data/                   
 │   └── BiasAsker/
 │     └── [bias_asker_combined.csv]
 │   └── Response_generation_datasets/
