@@ -1,6 +1,6 @@
 This repository contains the code and datasets accompanying the research paper: **"Navigating the Bias-Utility Trade-off in Conversational AI with Nonviolent Communication."**
 
-## 📄 Abstract
+## Abstract
 
 Efforts to create unbiased conversational AI often result in a significant loss of utility. Instead of providing actionable answers, these systems frequently resort to diplomatic but ambiguous rejections, leaving users caught between potentially biased systems and safe but unhelpful ones. 
 
@@ -8,7 +8,7 @@ This paper introduces a novel framework that navigates this trade-off by incorpo
 
 We conduct a comparative study of four prompt-induced behaviours across three local LLMs, evaluating performance using an LLM-as-a-judge framework. Results show our NVC-prompted model significantly reduces bias while simultaneously maintaining or improving utility and user satisfaction scores compared to standard and fairness-focused baselines. This work presents a practical, reproducible method for developing a more "need-oriented" conversational AI that preserves utility not by avoiding difficult topics, but by engaging with them constructively.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized into three main directories:
 
