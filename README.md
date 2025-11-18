@@ -18,10 +18,6 @@ The repository is organized into three main directories:
 │     ├── [unbiased_code.py]
 │     ├── [utility_first_code.py]
 │     └── [vanilla_code]
-├── code/                         
-│   ├── inference.py
-│   ├── evaluation_judge.py
-│   └── ...
 └── README.md
 ```
 
