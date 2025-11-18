@@ -15,13 +15,13 @@ The repository is organized into three main directories:
 ```text
 .
 ├── BiasAsker/                     # Source data for bias testing
-│   └── [BiasAsker Dataset Files]
-├── Response generation datasets/  # Generated responses from the 3 local LLMs
-│   ├── [Baseline Responses]
-│   └── [NVC-Prompted Responses]
-├── code/                          # Scripts for inference, prompting, and evaluation
-│   ├── inference.py
-│   ├── evaluation_judge.py
+│   └── [bias_asker_combined.csv]
+├── Response generation datasets/  
+│   ├── [Mental-Health-GPT-Augmented-Clean-Dataset.csv]
+│   └── [Statement_Need_Dataset_GPT_100.csv]
+├── code/                          
+│   ├── 
+│   ├── 
 │   └── ...
 └── README.md
 ```
