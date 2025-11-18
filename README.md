@@ -1,6 +1,4 @@
-# Need-Oriented AI: Nonviolent Communication (NVC) for Unbiased & Useful LLMs
-
-This repository contains the code and datasets accompanying the research paper: **"Navigating the Bias-Utility Trade-off in Conversational AI with Nonviolent Communication."**
+This repository contains the code and datasets accompanying the research paper: **"Need-Oriented Response Generation for Navigating the Bias–Utility Trade-off in LLMs"**
 
 ## Repository Structure
 
